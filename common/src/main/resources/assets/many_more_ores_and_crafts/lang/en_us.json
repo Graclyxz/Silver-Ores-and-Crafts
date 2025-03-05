@@ -1,0 +1,32 @@
+{
+  "item.many_more_ores_and_crafts.silver_sword": "Silver Sword",
+  "item.many_more_ores_and_crafts.silver_pickaxe": "Silver Pickaxe",
+  "item.many_more_ores_and_crafts.silver_axe": "Silver Axe",
+  "item.many_more_ores_and_crafts.silver_hoe": "Silver Hoe",
+  "item.many_more_ores_and_crafts.silver_shovel": "Silver Shovel",
+  "item.many_more_ores_and_crafts.silver_ingot": "Silver Ingot",
+  "item.many_more_ores_and_crafts.silver_nugget": "Silver Nugget",
+  "item.many_more_ores_and_crafts.raw_silver": "Raw Silver",
+  "item.many_more_ores_and_crafts.silver_helmet": "Silver Helmet",
+  "item.many_more_ores_and_crafts.silver_chestplate": "Silver Chestplate",
+  "item.many_more_ores_and_crafts.silver_leggings": "Silver Leggings",
+  "item.many_more_ores_and_crafts.silver_boots": "Silver Boots",
+  "block.many_more_ores_and_crafts.silver_block": "Silver Block",
+  "block.many_more_ores_and_crafts.silver_ore": "Silver Ore",
+  "block.many_more_ores_and_crafts.raw_silver_block": "Raw Silver Block",
+
+  "advancements.mod_achievement.title": "Silver ores and Crafts",
+  "advancements.mod_achievement.descr": "You have silver material in your world",
+  "advancements.silver_sword_achievement.title": "Silver Tools",
+  "advancements.silver_sword_achievement.descr": "Obtain all silver tools",
+  "advancements.silver_armor_achievement.title": "Full Silver Armor",
+  "advancements.silver_armor_achievement.descr": "Obtain Full Silver Armor",
+  "advancements.oresachievement.title": "Silver ore",
+  "advancements.oresachievement.descr": "Obtain silver ore",
+  "advancements.ingots_achievement.title": "Silver ingot",
+  "advancements.ingots_achievement.descr": "Obtain silver ingot",
+
+
+  "itemGroup.tab_many_more_ores_and_crafts": "Silver Ores and Crafts",
+  "item_group.many_more_ores_and_crafts.tab_many_more_ores_and_crafts": "Silver Ores and Crafts"
+}

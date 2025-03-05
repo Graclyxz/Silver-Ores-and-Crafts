@@ -1,0 +1,31 @@
+{
+  "item.many_more_ores_and_crafts.silver_sword": "银剑",
+  "item.many_more_ores_and_crafts.silver_pickaxe": "银镐",
+  "item.many_more_ores_and_crafts.silver_axe": "银斧",
+  "item.many_more_ores_and_crafts.silver_hoe": "银锄",
+  "item.many_more_ores_and_crafts.silver_shovel": "银铲",
+  "item.many_more_ores_and_crafts.silver_ingot": "银锭",
+  "item.many_more_ores_and_crafts.silver_nugget": "银小块",
+  "item.many_more_ores_and_crafts.raw_silver": "原矿银",
+  "item.many_more_ores_and_crafts.silver_helmet": "银头盔",
+  "item.many_more_ores_and_crafts.silver_chestplate": "银胸甲",
+  "item.many_more_ores_and_crafts.silver_leggings": "银护腿",
+  "item.many_more_ores_and_crafts.silver_boots": "银靴子",
+  "block.many_more_ores_and_crafts.silver_block": "银块",
+  "block.many_more_ores_and_crafts.silver_ore": "银矿石",
+  "block.many_more_ores_and_crafts.raw_silver_block": "原矿银块",
+
+  "advancements.mod_achievement.title": "Silver Ores and Crafts",
+  "advancements.mod_achievement.descr": "你的世界中拥有银材料",
+  "advancements.silver_sword_achievement.title": "银制工具",
+  "advancements.silver_sword_achievement.descr": "获得所有银制工具",
+  "advancements.silver_armor_achievement.title": "完整银甲",
+  "advancements.silver_armor_achievement.descr": "获得完整的银制盔甲",
+  "advancements.oresachievement.title": "银矿石",
+  "advancements.oresachievement.descr": "获得银矿石",
+  "advancements.ingots_achievement.title": "银锭",
+  "advancements.ingots_achievement.descr": "获得银锭",
+
+  "itemGroup.tab_many_more_ores_and_crafts": "Silver Ores and Crafts",
+  "item_group.many_more_ores_and_crafts.tab_many_more_ores_and_crafts": "Silver Ores and Crafts"
+}

@@ -1,0 +1,32 @@
+{
+  "item.many_more_ores_and_crafts.silver_sword": "Espada de Prata",
+  "item.many_more_ores_and_crafts.silver_pickaxe": "Picareta de Prata",
+  "item.many_more_ores_and_crafts.silver_axe": "Machado de Prata",
+  "item.many_more_ores_and_crafts.silver_hoe": "Enxada de Prata",
+  "item.many_more_ores_and_crafts.silver_shovel": "Pá de Prata",
+  "item.many_more_ores_and_crafts.silver_ingot": "Lingote de Prata",
+  "item.many_more_ores_and_crafts.silver_nugget": "Pepita de Prata",
+  "item.many_more_ores_and_crafts.raw_silver": "Prata Bruta",
+  "item.many_more_ores_and_crafts.silver_helmet": "Capacete de Prata",
+  "item.many_more_ores_and_crafts.silver_chestplate": "Peitoral de Prata",
+  "item.many_more_ores_and_crafts.silver_leggings": "Calças de Prata",
+  "item.many_more_ores_and_crafts.silver_boots": "Botas de Prata",
+  "block.many_more_ores_and_crafts.silver_block": "Bloco de Prata",
+  "block.many_more_ores_and_crafts.silver_ore": "Minério de Prata",
+  "block.many_more_ores_and_crafts.raw_silver_block": "Bloco de Prata Bruta",
+
+  "advancements.mod_achievement.title": "Silver Ores and Crafts",
+  "advancements.mod_achievement.descr": "Tens material de prata no teu mundo",
+  "advancements.silver_sword_achievement.title": "Ferramentas de Prata",
+  "advancements.silver_sword_achievement.descr": "Obtém todas as ferramentas de prata",
+  "advancements.silver_armor_achievement.title": "Armadura Completa de Prata",
+  "advancements.silver_armor_achievement.descr": "Obtém a armadura completa de prata",
+  "advancements.oresachievement.title": "Minério de Prata",
+  "advancements.oresachievement.descr": "Obtém minério de prata",
+  "advancements.ingots_achievement.title": "Lingote de Prata",
+  "advancements.ingots_achievement.descr": "Obtém um lingote de prata",
+
+  "itemGroup.tab_many_more_ores_and_crafts": "Silver Ores and Crafts",
+  "item_group.many_more_ores_and_crafts.tab_many_more_ores_and_crafts": "Silver Ores and Crafts"
+}
+}

@@ -1,0 +1,31 @@
+{
+  "item.many_more_ores_and_crafts.silver_sword": "Espada de Plata",
+  "item.many_more_ores_and_crafts.silver_pickaxe": "Pico de Plata",
+  "item.many_more_ores_and_crafts.silver_axe": "Hacha de Plata",
+  "item.many_more_ores_and_crafts.silver_hoe": "Azada de Plata",
+  "item.many_more_ores_and_crafts.silver_shovel": "Pala de Plata",
+  "item.many_more_ores_and_crafts.silver_ingot": "Lingote de Plata",
+  "item.many_more_ores_and_crafts.silver_nugget": "Pepita de Plata",
+  "item.many_more_ores_and_crafts.raw_silver": "Plata Crudo",
+  "item.many_more_ores_and_crafts.silver_helmet": "Casco de Plata",
+  "item.many_more_ores_and_crafts.silver_chestplate": "Pechera de Plata",
+  "item.many_more_ores_and_crafts.silver_leggings": "Pantalones de Plata",
+  "item.many_more_ores_and_crafts.silver_boots": "Botas de Plata",
+  "block.many_more_ores_and_crafts.silver_block": "Bloque de Plata",
+  "block.many_more_ores_and_crafts.silver_ore": "Mineral de Plata",
+  "block.many_more_ores_and_crafts.raw_silver_block": "Bloque de Plata Crudo",
+
+  "advancements.mod_achievement.title": "Silver ores and Crafts",
+  "advancements.mod_achievement.descr": "Tienes material de plata en tu mundo",
+  "advancements.silver_sword_achievement.title": "Herramientas de Plata",
+  "advancements.silver_sword_achievement.descr": "Obtén todas las herramientas de plata",
+  "advancements.silver_armor_achievement.title": "Armadura Completa de Plata",
+  "advancements.silver_armor_achievement.descr": "Obtén la armadura completa de plata",
+  "advancements.oresachievement.title": "Mineral de Plata",
+  "advancements.oresachievement.descr": "Obtén mineral de plata",
+  "advancements.ingots_achievement.title": "Lingote de Plata",
+  "advancements.ingots_achievement.descr": "Obtén un lingote de plata",
+
+  "itemGroup.tab_many_more_ores_and_crafts": "Silver Ores and Crafts",
+  "item_group.many_more_ores_and_crafts.tab_many_more_ores_and_crafts": "Silver Ores and Crafts"
+}
