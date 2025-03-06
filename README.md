@@ -4,8 +4,8 @@ Add silver ores in the minecraft world and their craftings
 
 ## Download links
 
-- 
-- 
+- https://www.curseforge.com/minecraft/mc-mods/silver-ores-and-crafts
+- https://modrinth.com/mod/silver-ores-and-crafts
 
 ## Development
 
